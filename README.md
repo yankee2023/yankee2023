@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yankee2023, have been working software engineer since April 2021.
 - 👀 I’m interested in embedded ...
-- 🌱 I’m currently learning certification studying.
+- 🌱 I’m currently learning engineer certification studying.
 
 <!---
 yankee2023/yankee2023 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

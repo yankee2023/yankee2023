@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yankee2023
+- 👋 Hi, I’m @yankee2023, have been working since April 2021.
 - 👀 I’m interested in embedded ...
 - 🌱 I’m currently learning certification studying.
 

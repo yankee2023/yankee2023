@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yankee2023, have been working software engineer since April 2021.
-- 👀 I’m interested in embedded ...
+- 👀 I’m interested in embedded, algorithm and data struct, ...
 - 🌱 I’m currently learning engineer certification studying.
 
 <!---
